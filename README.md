@@ -14,16 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Netlify Hosting: https://zealous-murdock-e3d1b5.netlify.com
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
